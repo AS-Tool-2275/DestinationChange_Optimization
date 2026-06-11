@@ -1,6 +1,0 @@
-streamlit>=1.50
-pandas>=2.2
-numpy>=2.0
-openpyxl>=3.1
-scipy>=1.11
-osqp>=0.6.7
